@@ -1,2 +1,10 @@
-# One page personal website
-Onepage Personal Website https://bba2han.github.io/
+## One Page Personal Website
+
+<p align="center">
+    <a href="https://bba2han.github.io/">
+        <img 
+        src="/logo.png">
+    </a>
+</p>
+
+## How to install
