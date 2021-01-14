@@ -8,7 +8,7 @@
 </p>
 
 ## Table Of Contents
-1. [Overview(#overview)
+1. [Overview](#overview)
 2. [How To Install](#how-to-install)
 
 ## Overview
