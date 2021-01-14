@@ -8,11 +8,11 @@
 </p>
 
 ## Table Of Contents
-1. [Overview](#overwieeev)
+1. [Overview(#overview)
 2. [How To Install](#how-to-install)
 
 ## Overview
 This is a personal information website. This website contains your project addresses and information about you. You can add extra pages optionally.
 
-## How To Instal
+## How To Install
 ...
