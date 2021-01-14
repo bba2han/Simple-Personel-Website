@@ -1,11 +1,11 @@
-## One Page Personal Website
-
 <p align="center">
     <a href="https://bba2han.github.io/">
         <img 
         src="/logo.png">
     </a>
 </p>
+
+<h3 align="center">One Page Personal Website</h3>
 
 ## Table Of Contents
 1. [Overview](#overview)
